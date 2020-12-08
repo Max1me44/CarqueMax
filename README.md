@@ -6,9 +6,17 @@
 ---
 
 <details>
-    <summary>Recent GitHub Activity</summary>
+    <summary>Recent GitHub Activity ⏲️</summary>
     
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarqueMax&repo=Royal&theme=dracula)](https://github.com/CarqueMax/Royal)
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarqueMax&repo=TP_TrisTableau&theme=dracula)](https://github.com/CarqueMax/TP_TrisTableau)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarqueMax&repo=TP_Cavalier&theme=dracula)](https://github.com/CarqueMax/TP_Cavalier)
+    
+</details>
+
+<details>
+    <summary>Friends' projects 💻</summary>
+    
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xW00dy&repo=LFI-Scanner&theme=dracula)](https://github.com/0xW00dy/LFI-Scanner)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itarow&repo=XSS-tool&theme=dracula)](https://github.com/Itarow/XSS-tool)
     
 </details>
