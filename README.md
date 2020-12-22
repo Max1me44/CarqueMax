@@ -16,7 +16,8 @@
 <details>
     <summary>Friends' projects 💻</summary>
     
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xW00dy&repo=DirtyBruteForce&theme=dark)](https://github.com/0xW00dy/DirtyBruteForce)
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xW00dy&repo=LFI-Scanner&theme=dark)](https://github.com/0xW00dy/LFI-Scanner)
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itarow&repo=XSS-tool&theme=dark)](https://github.com/Itarow/XSS-tool)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xW00dy&repo=XSS-tool&theme=dark)](https://github.com/Itarow/XSS-tool)
     
 </details>
