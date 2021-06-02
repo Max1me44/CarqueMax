@@ -9,6 +9,7 @@
     <summary>Recent GitHub Activity ⏲️</summary>
     
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarqueMax&repo=Royal&theme=dark)](https://github.com/CarqueMax/Royal)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarqueMax&repo=NavigPlaneur&theme=dark)](https://github.com/CarqueMax/NavigPlaneur)
     
 </details>
 
