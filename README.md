@@ -1,4 +1,4 @@
-# Welcome to the CarqueMax profile <img src="https://raw.githubusercontent.com/CarqueMax/CarqueMax/main/wave.gif" width="30px">
+# Welcome to the CarqueMax profile <img src="https://raw.githubusercontent.com/CarqueMax/CarqueMax/main/wave.gif" width="20px">
 ### French, young developer in training learning  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarqueMax&show_icons=true&count_private=false&theme=dark)
 ![CarqueMax's github stats](https://github-readme-stats.vercel.app/api?username=CarqueMax&show_icons=true&theme=dark)
