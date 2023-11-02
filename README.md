@@ -1,15 +1,15 @@
-# Welcome to the CarqueMax profile <img src="https://raw.githubusercontent.com/CarqueMax/CarqueMax/main/wave.gif" width="20px">
+# Welcome to the Max1me44 profile <img src="https://raw.githubusercontent.com/CarqueMax/Max1me44/main/wave.gif" width="20px">
 ### French, young developer in training learning  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarqueMax&show_icons=true&count_private=false&theme=dark)
-![CarqueMax's github stats](https://github-readme-stats.vercel.app/api?username=CarqueMax&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max1me44&show_icons=true&count_private=false&theme=dark)
+![CarqueMax's github stats](https://github-readme-stats.vercel.app/api?username=Max1me44&show_icons=true&theme=dark)
 
 ---
 
 <details>
     <summary>Recent GitHub Activity ⏲️</summary>
     
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarqueMax&repo=Royal&theme=dark)](https://github.com/CarqueMax/Royal)
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarqueMax&repo=NavigPlaneur&theme=dark)](https://github.com/CarqueMax/NavigPlaneur)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Max1me44&repo=Royal&theme=dark)](https://github.com/Max1me44/Royal)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Max1me44&repo=NavigPlaneur&theme=dark)](https://github.com/Max1me44/NavigPlaneur)
     
 </details>
 
